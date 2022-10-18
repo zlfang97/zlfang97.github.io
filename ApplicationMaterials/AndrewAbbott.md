@@ -8,7 +8,7 @@
 
 ### 1. Application materials
 * [Statement of purpose in Google Doc](https://docs.google.com/document/d/1OLD44HZa6novmWQJ4ovnnrtkapOrDvUyUHUqOowUiTA/edit)
-* CV
+* [CV](https://github.com/zlfang97/zlfang97.github.io/blob/main/CV_ZhilanFang_Oct2022.pdf)
 * Thesis. Thesis evaluation is A. Please see comments here.
 * UChicago transcript
 
