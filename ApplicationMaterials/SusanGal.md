@@ -13,7 +13,7 @@
 * [UChicago transcript](https://github.com/zlfang97/zlfang97.github.io/blob/main/Transcript_ZhilanFang.pdf)
 
 ### 2. Materials for Professor Susan Gal
-* Midterm essay with your comments for your course Language in Society
+* [Midterm essay with your comments](https://github.com/zlfang97/zlfang97.github.io/blob/main/ZhilanFAng_Midterm%20Essay.docx) for your course Language in Society
 * Final essay with your comments for your course Language in Society
 
 ### 3. Other working papers
