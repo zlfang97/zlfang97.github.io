@@ -15,6 +15,7 @@
 ### 2. Materials for Professor Susan Gal
 * [Midterm essay with your comments](https://github.com/zlfang97/zlfang97.github.io/blob/main/ZhilanFAng_Midterm%20Essay.docx) for your course Language in Society
 * [Final essay with your comments](https://github.com/zlfang97/zlfang97.github.io/blob/main/ZhilanFang_FinalEssay.docx) for your course Language in Society
+* Overall course evaluation: A
 
 ### 3. Other working papers
 * [Doing "Gendered Exit:" Work, Care and Moral Practices of People with Disabilities](https://github.com/zlfang97/zlfang97.github.io/blob/main/MG_manuscript.pdf)
