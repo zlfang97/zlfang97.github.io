@@ -7,7 +7,7 @@
 4. Targeted Sociology programs and deadlines
 
 ### 1. Application materials
-* Statement of purpose in Google Doc
+* [Statement of purpose in Google Doc](https://docs.google.com/document/d/1OLD44HZa6novmWQJ4ovnnrtkapOrDvUyUHUqOowUiTA/edit)
 * CV
 * Thesis. Thesis evaluation is A. Please see comments here.
 * UChicago transcript
