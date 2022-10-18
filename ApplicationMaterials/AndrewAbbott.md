@@ -10,10 +10,11 @@
 * [Statement of purpose in Google Doc](https://docs.google.com/document/d/1OLD44HZa6novmWQJ4ovnnrtkapOrDvUyUHUqOowUiTA/edit)
 * [CV](https://github.com/zlfang97/zlfang97.github.io/blob/main/CV_ZhilanFang_Oct2022.pdf)
 * [Thesis](https://github.com/zlfang97/zlfang97.github.io/blob/main/ZhilanFang_final_thesis.pdf). Thesis evaluation is A. Please see comments [here](https://github.com/zlfang97/zlfang97.github.io/blob/main/ZhilanFang_thesisevaluation.pdf).
-* [UChicago transcript](https://github.com/zlfang97/zlfang97.github.io/blob/main/Transcript_ZhilanFang.pdf)
+* [UChicago transcript](https://github.com/zlfang97/zlfang97.github.io/blob/main/Transcript_ZhilanFang.pdf) (GPA: 4.0/4.0)
 
 ### 2. Materials for Professor Andrew Abbott
-This is my [final product](https://github.com/zlfang97/zlfang97.github.io/blob/main/ZhilanFang_FinalProduct.pdf) for your course Found Data.
+* This is my [final product](https://github.com/zlfang97/zlfang97.github.io/blob/main/ZhilanFang_FinalProduct.pdf) for your course Found Data.
+* Overall course evaluation: A
 
 ### 3. Other working papers
 * [Doing "Gendered Exit:" Work, Care and Moral Practices of People with Disabilities](https://github.com/zlfang97/zlfang97.github.io/blob/main/MG_manuscript.pdf)
